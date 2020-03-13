@@ -90,7 +90,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #000000;
 }
 
 .overlay-mf {
@@ -744,7 +744,7 @@ a:hover {
 ======================================*/
 
 .counter-box {
-  color: #fff;
+  color: black;
   text-align: center;
 }
 
