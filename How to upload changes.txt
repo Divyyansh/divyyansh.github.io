@@ -1,0 +1,11 @@
+open gitbash from devfolio folder by clicking on white space
+
+then type following commands:
+
+git add .
+
+git commit -m "Your message"
+
+git push origin master
+
+done
